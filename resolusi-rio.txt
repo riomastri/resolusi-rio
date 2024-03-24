@@ -2,5 +2,5 @@ Resolusi Rio
 - Konsisten belajar koding
 - Membuat blog personal
 - Membuat blog Oja
-- Membuat sebuah toko online
 - Belajar Javascript
+- Membuat produk
